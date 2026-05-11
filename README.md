@@ -70,5 +70,3 @@
 * LinkedIn: www.linkedin.com/in/sabir-shaikh-3278bb302
 * Mail : 360sabirmshaikh@gmail.com
 ---
-
-
