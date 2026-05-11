@@ -41,7 +41,7 @@
 
 ---
 
-## 📌 Current Goals
+## 📌 Current Focus
 
 * Improving problem-solving skills
 * Building practical projects
