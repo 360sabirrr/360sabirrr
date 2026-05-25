@@ -20,7 +20,7 @@ I'm a **Bachelor's student** passionate about transforming data into meaningful 
 - 🔬 Currently deepening skills in **Machine Learning**, **Advanced DSA**, and **Java**
 - 📊 Building hands-on projects using **Python, SQL, and Power BI**
 - 🤝 Open to collaborations on data-driven and AI-powered projects
-- 💬 Ask me about **Data Analytics, Python, SQL, or Power BI**
+- 💬 Ask me about **Data Analytics, Python, C, SQL, DBMS, Statistics, or Power BI**
 
 ---
 
@@ -29,10 +29,17 @@ I'm a **Bachelor's student** passionate about transforming data into meaningful 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases & Data Management**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS%20%2F%20RDBMS-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 
 **Tools & Platforms**
 
@@ -44,7 +51,7 @@ I'm a **Bachelor's student** passionate about transforming data into meaningful 
 
 **Domains**
 
-`Data Analytics` · `Machine Learning` · `Data Visualization` · `AI / Deep Learning` · `Web Development`
+`Data Analytics` · `Machine Learning` · `Data Visualization` · `AI / Deep Learning` · `Statistics` · `DBMS / RDBMS` · `Web Development`
 
 ---
 
