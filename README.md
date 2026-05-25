@@ -71,12 +71,6 @@ I'm a **Bachelor's student** passionate about transforming data into meaningful 
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=360sabirrr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 🎯 Currently Working On
