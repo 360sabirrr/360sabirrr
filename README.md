@@ -71,12 +71,7 @@ I'm a **Bachelor's student** passionate about transforming data into meaningful 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=360sabirrr&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=360sabirrr&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=360sabirrr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
