@@ -47,6 +47,12 @@
 
 ## 🚀 Projects
 
+**Agri CompleteHub** &nbsp;.&nbsp; `Python` `Javascript` `HTML5` `CSS` `AIML` &nbsp;.&nbsp; [Repository ↗](https://github.com/360sabirrr/agricomplete-hub)
+Developed an AI-powered smart agriculture platform integrating machine learning for crop recommendation and plant disease
+detection.
+Implemented data-driven insights for weather monitoring and efficient water and fertilizer management.
+Integrated AI/ML predictions into a responsive web application to support informed agricultural decision-making.
+
 **Customer Behavior Analysis** &nbsp;·&nbsp; `Python` `PostgreSQL` `Power BI` &nbsp;·&nbsp; [Repository ↗](https://github.com/360sabirrr/Customer_behavior_analysis)
 Analyzed 4,000+ customer records to uncover purchasing patterns and identify the top 20% of revenue-generating products. Built a Power BI dashboard that reduced manual reporting effort by 40%.
 
