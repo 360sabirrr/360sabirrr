@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://agricomplete-frontend.onrender.com">
-  <img src="https://img.shields.io/badge/Live%20Project-Agri%20CompleteHub-1F9D55?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20Project-Agri%20CompleteHub-1F9D55?style=for-the-badge&logo=render&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -124,7 +124,7 @@ B.Sc. Computer Science · CGPA 9.21/10 · 2024 – 2027
 <img src="https://github-readme-stats.vercel.app/api?username=360sabirrr&show_icons=true&theme=default&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=360sabirrr&layout=compact&hide_border=true&theme=default" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=360sabirrr&hide_border=true&theme=default" />
+<img src="https://streak-stats.demolab.com/?user=360sabirrr&hide_border=true&theme=default" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=360sabirrr&theme=minimal&hide_border=true" width="100%"/>
 
@@ -136,7 +136,7 @@ B.Sc. Computer Science · CGPA 9.21/10 · 2024 – 2027
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1F1C2C&height=100&section=footer)
 
-*🏏 When I'm not coding — you'll find me playing cricket or solving programming puzzles.*
-*Thanks for stopping by — let's connect!* ⭐
+*Outside of code, you'll usually find me on a cricket pitch or working through a programming puzzle.*
+*Thanks for visiting — always open to connecting.*
 
 </div>
