@@ -102,18 +102,56 @@ Processed and analyzed 48,000+ sales records using SQL and Excel, identifying to
 
 ---
 
-### 🎓  Education & Certifications
+### 🎓  Education Details
 
-| Institution | Program | Result |
-|---|---|---|
-| MAEER's MIT Arts, Commerce & Science College, Pune | B.Sc. Computer Science (2024 – Expected 2027) | CGPA: 9.21 / 10 |
-| Rajiv Gandhi Academy of e-Learning School, Pune | 12th Grade (HSC), 2024 | 67% |
-| Kai. Genba Sopan Moze Vidhyalay, Pune | 10th Grade (SSC), 2022 | 74.80% |
+<table>
+<tr>
+<td width="8%" align="center">🎓</td>
+<td width="60%">
 
-- 🏅 **Microsoft:** GitHub Foundations (Part 1 & 2)
-- 🏅 **Deloitte:** Data Analytics Job Simulation — *Forage*
-- 🏅 **Tata:** GenAI Powered Data Analytics Job Simulation — *Forage*
-- 🏅 **MongoDB:** Introduction to MongoDB
+**MAEER's MIT Arts, Commerce & Science College, Pune**
+B.Sc. Computer Science
+
+</td>
+<td width="16%" align="center">2024 – Expected 2027</td>
+<td width="16%" align="center"><b>CGPA: 9.21 / 10</b></td>
+</tr>
+<tr>
+<td align="center">🏫</td>
+<td>
+
+**Rajiv Gandhi Academy of e-Learning School, Pune**
+12th Grade (HSC)
+
+</td>
+<td align="center">2024</td>
+<td align="center"><b>67%</b></td>
+</tr>
+<tr>
+<td align="center">🏫</td>
+<td>
+
+**Kai. Genba Sopan Moze Vidhyalay, Pune**
+10th Grade (SSC)
+
+</td>
+<td align="center">2022</td>
+<td align="center"><b>74.80%</b></td>
+</tr>
+</table>
+
+<br/>
+
+**🏅 Certifications**
+
+<div align="left">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-GitHub%20Foundations-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white)
+![Tata](https://img.shields.io/badge/Tata-GenAI%20Powered%20Data%20Analytics-1E4E9C?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-Introduction%20to%20MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
