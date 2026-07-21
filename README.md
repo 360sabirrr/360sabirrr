@@ -21,14 +21,23 @@
 
 ### 🧭  Summary
 
-Aspiring **Data Analyst** with hands-on experience in **Python, SQL, and Power BI**, backed by a strong foundation in programming and Data Structures & Algorithms. Skilled in data cleaning, exploratory data analysis, and building interactive dashboards that turn raw data into decisions.
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
-```yaml
-education:      "B.Sc. Computer Science, MIT ACSC Pune — CGPA 9.21 / 10"
-currently:      "Data Analyst Intern @ TechnoHacks Solutions Pvt. Ltd"
-focus_areas:    "Data Cleaning, EDA, Dashboarding, SQL Analysis"
-open_to:        "Data Analytics & Data Science opportunities"
-```
+> Aspiring **Data Analyst** with hands-on experience in **Python, SQL, and Power BI**, backed by a strong foundation in programming and Data Structures & Algorithms.
+> Skilled in data cleaning, exploratory data analysis, and building interactive dashboards that turn raw data into decisions.
+
+<br/>
+
+<div align="left">
+
+🎓&nbsp; **Education** &nbsp;—&nbsp; B.Sc. Computer Science, MIT ACSC Pune · CGPA **9.21 / 10**
+💼&nbsp; **Currently** &nbsp;—&nbsp; Data Analyst Intern @ TechnoHacks Solutions Pvt. Ltd
+🎯&nbsp; **Focus Areas** &nbsp;—&nbsp; Data Cleaning · EDA · Dashboarding · SQL Analysis
+📌&nbsp; **Open To** &nbsp;—&nbsp; Data Analytics & Data Science opportunities
+
+</div>
+
+<br clear="right"/>
 
 ---
 
@@ -105,21 +114,6 @@ Processed and analyzed 48,000+ sales records using SQL and Excel, identifying to
 - 🏅 **Deloitte:** Data Analytics Job Simulation — *Forage*
 - 🏅 **Tata:** GenAI Powered Data Analytics Job Simulation — *Forage*
 - 🏅 **MongoDB:** Introduction to MongoDB
-
----
-
-### 📊  GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=360sabirrr&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=360sabirrr&layout=compact&hide_border=true&theme=default" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=360sabirrr&hide_border=true&theme=default" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=360sabirrr&theme=minimal&hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
